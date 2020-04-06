@@ -40,6 +40,6 @@ Feature: Feature Juan
   Scenario: 9
     Given 9
 
-  @ATFM-1 @COMPLETED
+  @ATFM-1 @OPEN
   Scenario: 10
     Given 10
