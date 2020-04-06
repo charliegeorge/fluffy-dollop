@@ -19,3 +19,7 @@ Feature: Feature Juan
   @ATFM-1 @COMPLETED
   Scenario: 4
     Given 4
+
+  @ATFM-1 @COMPLETED
+  Scenario: 5
+    Given 5
