@@ -15,3 +15,7 @@ Feature: Feature Juan
   @ATFM-1 @COMPLETED
   Scenario: 4
     Given ace
+
+  @ATFM-1 @COMPLETED
+  Scenario: 4
+    Given 4
