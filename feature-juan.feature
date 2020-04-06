@@ -4,7 +4,7 @@ Feature: Feature Juan
   Scenario: 1
     Given 1
 
-  @ATFM-1 @OPEN
+  @ATFM-1 @COMPLETED
   Scenario: 2
     Given 2
 
