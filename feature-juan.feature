@@ -12,7 +12,7 @@ Feature: Feature Juan
   Scenario: 3
     Given something
 
-  @ATFM-1 @COMPLETED
+  @ATFM-1 @OPEN
   Scenario: 4
     Given ace
 
