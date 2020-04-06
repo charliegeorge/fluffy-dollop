@@ -8,7 +8,7 @@ Feature: Feature Juan
   Scenario: 2
     Given 2
 
-  @ATFM-1 @COMPLETED
+  @ATFM-1 @OPEN
   Scenario: 3
     Given something
 
