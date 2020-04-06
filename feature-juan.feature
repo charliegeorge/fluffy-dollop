@@ -11,3 +11,7 @@ Feature: Feature Juan
   @ATFM-1 @WIP
   Scenario: 3
     Given something
+
+  @ATFM-1 @WIP
+  Scenario: 4
+    Given ace
