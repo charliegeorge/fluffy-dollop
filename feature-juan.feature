@@ -1,6 +1,6 @@
 Feature: Feature Juan
 
-  @ATFM-1 @COMPLETED
+  @ATFM-1 @WIP
   Scenario: 1
     Given 1
 
@@ -8,7 +8,7 @@ Feature: Feature Juan
   Scenario: 2
     Given 2
 
-  @ATFM-1 @WIP
+  @ATFM-1 @COMPLETED
   Scenario: 3
     Given something
 
