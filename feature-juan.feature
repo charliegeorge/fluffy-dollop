@@ -1,6 +1,6 @@
 Feature: Feature Juan
 
-  @ATFM-1 @OPEN
+  @ATFM-1 @COMPLETED
   Scenario: 1
     Given 1
 
