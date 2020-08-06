@@ -11,3 +11,7 @@ Feature: Matt
   @GT-1 @OPEN
   Scenario: test
     Given matt
+
+  @GT-1 @OPEN
+  Scenario: 6789
+    Given something
