@@ -43,3 +43,7 @@ Feature: Feature Juan
   @ATFM-1 @OPEN
   Scenario: 10
     Given 10
+
+  @GT-1 @OPEN
+  Scenario: Grilled Cheese
+    Given the best grilled cheese
