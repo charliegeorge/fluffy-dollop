@@ -14,4 +14,4 @@ Feature: Matt
 
   @GT-1 @OPEN
   Scenario: 6789
-    Given something what mate12345
+    Given something what mate123456
